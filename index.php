@@ -47,10 +47,6 @@ $obj->bubbleSort();
 $median = $obj->getMedian();
 $largestValue = $obj->getLargestValue();
 
-// echo "Sorted array: " . implode(", ", $values) . "\n";
-// echo "Median: " . $median . "\n";
-// echo "Largest value: " . $largestValue . "\n";
-
 
 echo 
 '<div class="container">
