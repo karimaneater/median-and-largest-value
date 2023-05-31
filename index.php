@@ -47,7 +47,6 @@ $obj->bubbleSort();
 $median = $obj->getMedian();
 $largestValue = $obj->getLargestValue();
 
-
 echo 
 '<div class="container">
     <table class="table table-striped mt-5">
